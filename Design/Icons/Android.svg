@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-169 170 161 161"
+	 style="enable-background:new -169 170 161 161;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#filter-1);}
+	.st1{fill:#F8E81C;}
+	.st2{fill:none;stroke:#4A4A4A;}
+	.st3{font-family:'Impact';}
+	.st4{font-size:36px;}
+</style>
+<filter  width="200%" height="200%" id="filter-1" filterUnits="objectBoundingBox" y="-50%" x="-50%">
+	<feMorphology  result="shadowSpreadOuter1" operator="dilate" in="SourceAlpha" radius="2"></feMorphology>
+	<feOffset  dy="4" dx="4" result="shadowOffsetOuter1" in="shadowSpreadOuter1"></feOffset>
+	<feGaussianBlur  stdDeviation="2" result="shadowBlurOuter1" in="shadowOffsetOuter1"></feGaussianBlur>
+	
+		<feColorMatrix  type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" result="shadowMatrixOuter1" in="shadowBlurOuter1">
+		</feColorMatrix>
+	<feMerge>
+		<feMergeNode  in="shadowMatrixOuter1"></feMergeNode>
+		<feMergeNode  in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<title>Rectangle 20 + iOS Copy</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="Desktop-HD" transform="translate(-1039.000000, -2854.000000)" sketch:type="MSArtboardGroup">
+		<g id="Rectangle-20-_x2B_-iOS-Copy" transform="translate(1042.000000, 2857.000000)" sketch:type="MSLayerGroup">
+			<g id="Rectangle-20" sketch:type="MSShapeGroup" class="st0">
+				<path class="st1" d="M-135,174h87c16.6,0,30,13.4,30,30v87c0,16.6-13.4,30-30,30h-87c-16.6,0-30-13.4-30-30v-87
+					C-165,187.4-151.6,174-135,174z"/>
+				<path class="st2" d="M-135,174h87c16.6,0,30,13.4,30,30v87c0,16.6-13.4,30-30,30h-87c-16.6,0-30-13.4-30-30v-87
+					C-165,187.4-151.6,174-135,174z"/>
+			</g>
+			<text transform="matrix(1 0 0 1 -148.832 259)" class="st3 st4">Android</text>
+		</g>
+	</g>
+</g>
+</svg>
