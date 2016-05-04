@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sirwellington.tech" resolutions="1x" timestamp="1462339206870">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sirwellington.tech" resolutions="1x" timestamp="1462339452107">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="503191043" ref="index"/>
+    <file name="index.css" crc="4125967931" ref="index"/>
     <file name="nomq_index.css" crc="46203301" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -33,5 +33,5 @@
     <file name="20150923_180945 copy130x280.png" crc="4280767432" seo="true" ref="index"/>
     <file name="20150923_180945 copy160x343.png" crc="82793525" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="350453517" seo="true" mt="1462339187924" redirect="true"/>
+  <file name="index.html" crc="3897443260" seo="true" mt="1462339404823" redirect="true"/>
 </manifest>
