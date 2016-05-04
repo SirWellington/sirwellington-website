@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sirwellington.tech" resolutions="1x" timestamp="1462339924590">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sirwellington.tech" resolutions="1x" timestamp="1462381347599">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="3790610952" ref="index"/>
+    <file name="index.css" crc="278867768" ref="index"/>
     <file name="nomq_index.css" crc="4176843122" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -21,7 +21,7 @@
     <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="home-favicon.ico" crc="4106528060" ref="index"/>
+    <file name="home-favicon.ico" crc="4293327674" ref="index"/>
     <file name="20150923_180945 copy.png" crc="4015571138" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="project.png" crc="159670999" seo="true" ref="index"/>
@@ -31,7 +31,7 @@
     <file name="project copy 4.png" crc="3837664821" seo="true" ref="index"/>
     <file name="project copy 5.png" crc="3791792352" seo="true" ref="index"/>
     <file name="20150923_180945 copy130x280.png" crc="4280767432" seo="true" ref="index"/>
-    <file name="20150923_180945 copy160x343.png" crc="82793525" seo="true" ref="index"/>
+    <file name="20150923_180945 copy158x340.png" crc="406686535" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4087833764" seo="true" mt="1462339914319" redirect="true"/>
+  <file name="index.html" crc="4260133122" seo="true" mt="1462381333911" redirect="true"/>
 </manifest>

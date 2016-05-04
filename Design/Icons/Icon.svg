@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #F42626;">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon">
+            <polygon id="Path-137" stroke="#FFFFFF" stroke-linecap="square" fill="#FFFFFF" points="250.660963 229.70084 465.065027 174.726318 250.660971 268.653857 36.2569149 174.726318"></polygon>
+            <polygon id="Path-137-Copy" stroke="#FFFFFF" stroke-linecap="square" fill="#FFFFFF" points="250.660971 386.091415 36.2569149 204 250.660963 310.57565 465.065027 204"></polygon>
+            <circle id="Oval-106" cx="253.5" cy="253.5" r="238.5"></circle>
+        </g>
+    </g>
+</svg>
