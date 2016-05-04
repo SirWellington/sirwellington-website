@@ -156,8 +156,9 @@
 
 	#u277-4:hover
 	{
+		margin-right: -10000px;
+		margin-top: 0px;
 		width: 32.81%;
-		margin: 0px -10000px 0px 0%;
 	}
 
 	#pu206
@@ -219,6 +220,14 @@
 		width: 25.69%;
 	}
 
+	#u289-4:hover
+	{
+		margin-right: -10000px;
+		margin-top: 0px;
+		width: 25.69%;
+		margin-left: 0%;
+	}
+
 	#u283-4
 	{
 		font-size: 18px;
@@ -241,12 +250,11 @@
 		left: 74.32%;
 	}
 
-	#u289-4:hover,#u283-4:hover,#u295-4:hover
+	#u283-4:hover,#u295-4:hover
 	{
 		margin-right: -10000px;
 		margin-top: 0px;
 		width: 25.69%;
-		margin-left: 0%;
 	}
 
 	#u158-4
