@@ -1,7 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sirwellington.tech" resolutions="1x" timestamp="1462321860457">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sirwellington.tech" resolutions="1x" timestamp="1462338532893">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="3904441105" ref="index"/>
+    <file name="index.css" crc="179507847" ref="index"/>
+    <file name="nomq_index.css" crc="456293427" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="ubuntu-v9-latin-500.woff" crc="226814883"/>
@@ -17,10 +18,11 @@
     <file name="museutils.js" crc="3790713428" ref="index"/>
     <file name="whatinput.js" crc="84559013" ref="index"/>
     <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
   </folder>
   <folder name="images">
     <file name="home-favicon.ico" crc="4106528060" ref="index"/>
-    <file name="20150923_180945 copy.png" crc="4227665281" seo="true" ref="index"/>
+    <file name="20150923_180945 copy.png" crc="4015571138" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="project.png" crc="159670999" seo="true" ref="index"/>
     <file name="project copy.png" crc="166287032" seo="true" ref="index"/>
@@ -28,6 +30,7 @@
     <file name="project copy 2.png" crc="188991062" seo="true" ref="index"/>
     <file name="project copy 4.png" crc="3837664821" seo="true" ref="index"/>
     <file name="project copy 5.png" crc="3791792352" seo="true" ref="index"/>
+    <file name="20150923_180945 copy130x280.png" crc="4280767432" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4024185412" seo="true" mt="1462321840655" redirect="true"/>
+  <file name="index.html" crc="344079628" seo="true" mt="1462338418664" redirect="true"/>
 </manifest>
