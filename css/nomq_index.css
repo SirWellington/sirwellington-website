@@ -21,6 +21,7 @@
 		text-align: right;
 		font-size: 26px;
 		line-height: 31px;
+		position: relative;
 		width: 46.88%;
 		margin-left: 51.05%;
 	}
@@ -47,8 +48,10 @@
 	#u115-4
 	{
 		min-height: 50px;
+		text-align: right;
 		font-size: 20px;
 		line-height: 24px;
+		position: relative;
 		width: 100%;
 	}
 
@@ -79,14 +82,6 @@
 		margin-right: -10000px;
 		width: 29.64%;
 		left: 35.06%;
-	}
-
-	#u254:hover
-	{
-		margin-right: -10000px;
-		margin-top: 0px;
-		width: 29.64%;
-		margin-left: 0%;
 	}
 
 	#u230
@@ -126,6 +121,7 @@
 		margin-right: -10000px;
 		margin-top: 2px;
 		width: 25.14%;
+		margin-left: 0%;
 	}
 
 	#u271-4
@@ -160,8 +156,8 @@
 
 	#u277-4:hover
 	{
-		margin-right: -10000px;
 		width: 32.81%;
+		margin: 0px -10000px 0px 0%;
 	}
 
 	#pu206
@@ -175,6 +171,14 @@
 	{
 		margin-right: -10000px;
 		width: 29.64%;
+	}
+
+	#u254:hover,#u206:hover
+	{
+		margin-right: -10000px;
+		margin-top: 0px;
+		width: 29.64%;
+		margin-left: 0%;
 	}
 
 	#u218
@@ -191,7 +195,7 @@
 		left: 70.37%;
 	}
 
-	#u206:hover,#u218:hover,#u242:hover
+	#u218:hover,#u242:hover
 	{
 		margin-right: -10000px;
 		margin-top: 0px;
@@ -226,14 +230,6 @@
 		left: 37.16%;
 	}
 
-	#u283-4:hover
-	{
-		margin-right: -10000px;
-		margin-top: 0px;
-		width: 25.69%;
-		margin-left: 0%;
-	}
-
 	#u295-4
 	{
 		font-size: 18px;
@@ -245,11 +241,12 @@
 		left: 74.32%;
 	}
 
-	#u289-4:hover,#u295-4:hover
+	#u289-4:hover,#u283-4:hover,#u295-4:hover
 	{
 		margin-right: -10000px;
 		margin-top: 0px;
 		width: 25.69%;
+		margin-left: 0%;
 	}
 
 	#u158-4

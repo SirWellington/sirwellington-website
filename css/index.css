@@ -1,7 +1,17 @@
 .version.index /* version checker */
 {
-	color: #00000A;
-	background-color: #B31287;
+	color: #00001D;
+	background-color: #FE1603;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
 }
 
 @font-face
@@ -51,48 +61,45 @@
 	background-color: transparent;
 	font-family: '__Uni Sans_5';
 	color: #4A4A4A;
-	position: relative;
 }
 
 #u115-4
 {
-	font-weight: 200;
 	z-index: 6;
-	background-color: transparent;
-	text-align: right;
 	font-family: '__Uni Sans_5';
+	font-weight: 200;
 	color: #4A4A4A;
-	position: relative;
+	background-color: transparent;
 }
 
 #u122
 {
-	position: relative;
 	z-index: 14;
-	background-color: transparent;
 	margin-right: -10000px;
+	position: relative;
+	background-color: transparent;
 }
 
 #u194
 {
 	transition-delay: 0s;
 	background-image: url("../images/blank.gif");
-	z-index: 16;
-	transition-duration: 0s;
-	-webkit-transition-delay: 0s;
 	position: relative;
+	-webkit-transition-delay: 0s;
+	z-index: 16;
 	background-color: transparent;
 	-webkit-transition-duration: 0s;
+	transition-duration: 0s;
 }
 
 #u266-4
 {
 	-webkit-transition-delay: 0s;
 	z-index: 28;
-	background-color: transparent;
 	-webkit-transition-duration: 0s;
 	transition-delay: 0s;
 	background-image: url("../images/blank.gif");
+	background-color: transparent;
 	text-align: center;
 	min-height: 24px;
 	color: #4A4A4A;
@@ -114,17 +121,17 @@
 
 #u289-4
 {
+	transition-duration: 0s;
 	-webkit-transition-delay: 0s;
 	z-index: 48;
-	background-color: transparent;
 	-webkit-transition-duration: 0s;
 	transition-delay: 0s;
 	background-image: url("../images/blank.gif");
+	background-color: transparent;
 	text-align: center;
 	min-height: 24px;
 	color: #4A4A4A;
 	position: relative;
-	transition-duration: 0s;
 }
 
 #u218
@@ -141,14 +148,14 @@
 
 #u230
 {
-	transition-delay: 0s;
-	background-image: url("../images/blank.gif");
-	z-index: 22;
-	transition-duration: 0s;
 	-webkit-transition-delay: 0s;
-	position: relative;
+	z-index: 22;
 	background-color: transparent;
 	-webkit-transition-duration: 0s;
+	transition-delay: 0s;
+	background-image: url("../images/blank.gif");
+	position: relative;
+	transition-duration: 0s;
 }
 
 #u230:hover
@@ -171,10 +178,10 @@
 {
 	-webkit-transition-delay: 0s;
 	z-index: 32;
-	background-color: transparent;
 	-webkit-transition-duration: 0s;
 	transition-delay: 0s;
 	background-image: url("../images/blank.gif");
+	background-color: transparent;
 	text-align: center;
 	min-height: 24px;
 	color: #4A4A4A;
@@ -184,17 +191,14 @@
 
 #u277-4:hover
 {
-	margin-bottom: 0px;
 	padding-bottom: 0px;
 	-webkit-transition-timing-function: ease;
 	filter: alpha(opacity=85);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
 	transition-duration: 0.5s;
 	-webkit-transition-delay: 0s;
-	margin-left: 0%;
 	transition-timing-function: ease;
 	-webkit-transition-duration: 0.5s;
-	margin-top: 0px;
 	transition-delay: 0s;
 	opacity: 0.85;
 	min-height: 24px;
@@ -213,7 +217,7 @@
 	position: relative;
 }
 
-#u194:hover,#u254:hover
+#u194:hover,#u206:hover,#u254:hover
 {
 	margin-bottom: 0px;
 	-webkit-transition-timing-function: ease;
@@ -232,10 +236,10 @@
 {
 	-webkit-transition-delay: 0s;
 	z-index: 36;
-	background-color: transparent;
 	-webkit-transition-duration: 0s;
 	transition-delay: 0s;
 	background-image: url("../images/blank.gif");
+	background-color: transparent;
 	text-align: center;
 	min-height: 24px;
 	color: #4A4A4A;
@@ -255,7 +259,7 @@
 	position: relative;
 }
 
-#u206:hover,#u218:hover,#u242:hover
+#u218:hover,#u242:hover
 {
 	margin-bottom: 0px;
 	-webkit-transition-timing-function: ease;
@@ -280,42 +284,25 @@
 {
 	-webkit-transition-delay: 0s;
 	z-index: 40;
-	background-color: transparent;
 	-webkit-transition-duration: 0s;
 	transition-delay: 0s;
 	background-image: url("../images/blank.gif");
+	background-color: transparent;
 	text-align: center;
 	min-height: 24px;
 	color: #4A4A4A;
 	position: relative;
 	transition-duration: 0s;
-}
-
-#u271-4:hover,#u283-4:hover
-{
-	margin-bottom: 0px;
-	padding-bottom: 0px;
-	-webkit-transition-timing-function: ease;
-	filter: alpha(opacity=85);
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
-	transition-duration: 0.5s;
-	-webkit-transition-delay: 0s;
-	transition-timing-function: ease;
-	-webkit-transition-duration: 0.5s;
-	transition-delay: 0s;
-	opacity: 0.85;
-	min-height: 24px;
-	padding-top: 0px;
 }
 
 #u295-4
 {
 	-webkit-transition-delay: 0s;
 	z-index: 44;
-	background-color: transparent;
 	-webkit-transition-duration: 0s;
 	transition-delay: 0s;
 	background-image: url("../images/blank.gif");
+	background-color: transparent;
 	text-align: center;
 	min-height: 24px;
 	color: #4A4A4A;
@@ -323,7 +310,7 @@
 	transition-duration: 0s;
 }
 
-#u266-4:hover,#u289-4:hover,#u295-4:hover
+#u266-4:hover,#u289-4:hover,#u271-4:hover,#u283-4:hover,#u295-4:hover
 {
 	margin-bottom: 0px;
 	padding-bottom: 0px;
@@ -332,7 +319,6 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
 	transition-duration: 0.5s;
 	-webkit-transition-delay: 0s;
-	margin-left: 0%;
 	transition-timing-function: ease;
 	-webkit-transition-duration: 0.5s;
 	transition-delay: 0s;
@@ -398,6 +384,7 @@ body
 		text-align: right;
 		font-size: 26px;
 		line-height: 31px;
+		position: relative;
 		width: 46.88%;
 		margin-left: 51.05%;
 	}
@@ -424,8 +411,10 @@ body
 	#u115-4
 	{
 		min-height: 50px;
+		text-align: right;
 		font-size: 20px;
 		line-height: 24px;
+		position: relative;
 		width: 100%;
 	}
 
@@ -456,14 +445,6 @@ body
 		margin-right: -10000px;
 		width: 29.64%;
 		left: 35.06%;
-	}
-
-	#u254:hover
-	{
-		margin-right: -10000px;
-		margin-top: 0px;
-		width: 29.64%;
-		margin-left: 0%;
 	}
 
 	#u230
@@ -503,6 +484,7 @@ body
 		margin-right: -10000px;
 		margin-top: 2px;
 		width: 25.14%;
+		margin-left: 0%;
 	}
 
 	#u271-4
@@ -537,8 +519,8 @@ body
 
 	#u277-4:hover
 	{
-		margin-right: -10000px;
 		width: 32.81%;
+		margin: 0px -10000px 0px 0%;
 	}
 
 	#pu206
@@ -552,6 +534,14 @@ body
 	{
 		margin-right: -10000px;
 		width: 29.64%;
+	}
+
+	#u254:hover,#u206:hover
+	{
+		margin-right: -10000px;
+		margin-top: 0px;
+		width: 29.64%;
+		margin-left: 0%;
 	}
 
 	#u218
@@ -568,7 +558,7 @@ body
 		left: 70.37%;
 	}
 
-	#u206:hover,#u218:hover,#u242:hover
+	#u218:hover,#u242:hover
 	{
 		margin-right: -10000px;
 		margin-top: 0px;
@@ -603,14 +593,6 @@ body
 		left: 37.16%;
 	}
 
-	#u283-4:hover
-	{
-		margin-right: -10000px;
-		margin-top: 0px;
-		width: 25.69%;
-		margin-left: 0%;
-	}
-
 	#u295-4
 	{
 		font-size: 18px;
@@ -622,11 +604,12 @@ body
 		left: 74.32%;
 	}
 
-	#u289-4:hover,#u295-4:hover
+	#u289-4:hover,#u283-4:hover,#u295-4:hover
 	{
 		margin-right: -10000px;
 		margin-top: 0px;
 		width: 25.69%;
+		margin-left: 0%;
 	}
 
 	#u158-4
@@ -641,7 +624,7 @@ body
 
 }
 
-@media (min-width: 321px) and (max-width: 480px)
+@media (min-width: 376px) and (max-width: 480px)
 {
 	#muse_css_mq
 	{
@@ -655,62 +638,71 @@ body
 
 	#page
 	{
-		min-height: 668.8573555989299px;
+		min-height: 713.8573555989299px;
 		padding-top: 64px;
-		padding-bottom: 184.14264440107013px;
+		padding-bottom: 139.14264440107013px;
 		max-width: 480px;
 	}
 
 	#u110-4
 	{
 		text-align: center;
-		font-size: 20px;
-		line-height: 24px;
-		width: 87.5%;
-		margin-left: 6.88%;
+		font-size: 24px;
+		line-height: 29px;
+	}
+
+	#u110-4-bw
+	{
+		z-index: 2;
+		min-height: 50px;
 	}
 
 	#u115-4
 	{
 		min-height: 50px;
-		top: -1px;
-		margin-bottom: -1px;
-		width: 37.5%;
-		margin-left: 57.09%;
+		text-align: center;
+		font-size: 16px;
+		line-height: 19px;
+	}
+
+	#u115-4-bw
+	{
+		z-index: 6;
+		min-height: 50px;
 	}
 
 	#pu122
 	{
-		margin-top: 34px;
-		width: 92.09%;
-		margin-left: 4.17%;
+		margin-top: 33px;
+		width: 100%;
 	}
 
 	#u122
 	{
-		width: 47.29%;
+		width: 43.55%;
+		left: 4.17%;
 	}
 
 	#pu194
 	{
 		margin-right: -10000px;
 		margin-top: 14px;
-		width: 20.59%;
-		margin-left: 51.81%;
+		width: 21.05%;
+		margin-left: 51.88%;
 	}
 
 	#u194
 	{
-		width: 98.91%;
-		margin-left: 1.1%;
+		width: 99.01%;
+		margin-left: 1%;
 	}
 
 	#u194:hover
 	{
 		margin-right: 0px;
 		margin-top: 0px;
-		width: 98.91%;
-		margin-left: 1.1%;
+		width: 99.01%;
+		margin-left: 1%;
 	}
 
 	#u266-4
@@ -719,27 +711,24 @@ body
 		line-height: 19px;
 		font-family: ubuntu-condensed, sans-serif;
 		font-weight: 400;
-		width: 98.91%;
+		margin-top: 9px;
+		width: 97.03%;
+		margin-left: 1.99%;
 	}
 
 	#u266-4:hover
 	{
 		margin-right: 0px;
-		margin-top: 0px;
-		width: 98.91%;
+		margin-top: 9px;
+		width: 97.03%;
+		margin-left: 1.99%;
 	}
 
 	#u206
 	{
-		margin-top: 29px;
-		width: 98.91%;
-	}
-
-	#u206:hover
-	{
-		margin-right: 0px;
-		margin-top: 29px;
-		width: 98.91%;
+		margin-top: 10px;
+		width: 99.01%;
+		margin-left: 1%;
 	}
 
 	#u289-4
@@ -748,28 +737,14 @@ body
 		line-height: 19px;
 		font-family: ubuntu-condensed, sans-serif;
 		font-weight: 400;
-		margin-top: 3px;
-		width: 98.91%;
-	}
-
-	#u289-4:hover
-	{
-		margin-right: 0px;
-		margin-top: 3px;
-		width: 98.91%;
+		margin-top: 10px;
+		width: 99.01%;
 	}
 
 	#u218
 	{
-		margin-top: 41px;
-		width: 98.91%;
-	}
-
-	#u218:hover
-	{
-		margin-right: 0px;
-		margin-top: 41px;
-		width: 98.91%;
+		margin-top: 24px;
+		width: 99.01%;
 	}
 
 	#u283-4
@@ -778,38 +753,29 @@ body
 		line-height: 19px;
 		font-family: ubuntu-condensed, sans-serif;
 		font-weight: 400;
-		margin-top: 7px;
-		width: 97.81%;
-		margin-left: 1.1%;
-	}
-
-	#u283-4:hover
-	{
-		margin-right: 0px;
-		margin-top: 7px;
-		width: 97.81%;
-		margin-left: 1.1%;
+		margin-top: 13px;
+		width: 99.01%;
 	}
 
 	#pu230
 	{
 		margin-right: -10000px;
 		margin-top: 14px;
-		width: 20.82%;
-		margin-left: 78.96%;
+		width: 21.05%;
+		margin-left: 74.8%;
 	}
 
 	#u230
 	{
-		width: 97.83%;
-		margin-left: 1.09%;
+		width: 99.01%;
+		margin-left: 1%;
 	}
 
 	#u230:hover
 	{
 		margin-right: 0px;
-		width: 97.83%;
-		margin-left: 1.09%;
+		width: 99.01%;
+		margin-left: 1%;
 	}
 
 	#u277-4
@@ -818,28 +784,29 @@ body
 		line-height: 19px;
 		font-family: ubuntu-condensed, sans-serif;
 		font-weight: 400;
+		margin-top: 9px;
 		width: 100%;
 	}
 
 	#u277-4:hover
 	{
-		margin-right: 0px;
 		width: 100%;
+		margin: 9px 0px 0px 0%;
 	}
 
 	#u254
 	{
-		margin-top: 29px;
-		width: 97.83%;
-		margin-left: 1.09%;
+		margin-top: 10px;
+		width: 99.01%;
+		margin-left: 1%;
 	}
 
-	#u254:hover
+	#u206:hover,#u254:hover
 	{
 		margin-right: 0px;
-		margin-top: 29px;
-		width: 97.83%;
-		margin-left: 1.09%;
+		margin-top: 10px;
+		width: 99.01%;
+		margin-left: 1%;
 	}
 
 	#u271-4
@@ -848,30 +815,29 @@ body
 		line-height: 19px;
 		font-family: ubuntu-condensed, sans-serif;
 		font-weight: 400;
-		margin-top: 3px;
-		width: 96.74%;
-		margin-left: 1.09%;
+		margin-top: 10px;
+		width: 99.01%;
 	}
 
-	#u271-4:hover
+	#u289-4:hover,#u271-4:hover
 	{
 		margin-right: 0px;
-		margin-top: 3px;
-		width: 96.74%;
-		margin-left: 1.09%;
+		margin-top: 10px;
+		width: 99.01%;
+		margin-left: 0%;
 	}
 
 	#u242
 	{
-		margin-top: 41px;
-		width: 97.83%;
+		margin-top: 24px;
+		width: 99.01%;
 	}
 
-	#u242:hover
+	#u218:hover,#u242:hover
 	{
 		margin-right: 0px;
-		margin-top: 41px;
-		width: 97.83%;
+		margin-top: 24px;
+		width: 99.01%;
 	}
 
 	#u295-4
@@ -880,25 +846,305 @@ body
 		line-height: 19px;
 		font-family: ubuntu-condensed, sans-serif;
 		font-weight: 400;
+		margin-top: 13px;
+		width: 99.01%;
+	}
+
+	#u283-4:hover,#u295-4:hover
+	{
+		margin-right: 0px;
+		margin-top: 13px;
+		width: 99.01%;
+		margin-left: 0%;
+	}
+
+	#u158-4
+	{
+		min-height: 109px;
+		font-size: 28px;
+		line-height: 34px;
+		margin-top: 20px;
+		width: 43.55%;
+		margin-left: 4.17%;
+	}
+
+}
+
+@media (min-width: 321px) and (max-width: 375px)
+{
+	#muse_css_mq
+	{
+		background-color: #000177;
+	}
+
+	#bp_375.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 565.5187272713252px;
+		padding-top: 64px;
+		padding-bottom: 287.48127272867475px;
+		max-width: 375px;
+	}
+
+	#u110-4
+	{
+		text-align: center;
+		font-size: 19px;
+		line-height: 23px;
+	}
+
+	#u110-4-bw
+	{
+		z-index: 2;
+		min-height: 50px;
+	}
+
+	#u115-4
+	{
+		min-height: 50px;
+		text-align: center;
+		font-size: 14px;
+	}
+
+	#u115-4-bw
+	{
+		z-index: 6;
+		min-height: 50px;
+	}
+
+	#pu122
+	{
+		margin-top: 44px;
+		width: 100%;
+	}
+
+	#u122
+	{
+		margin-top: 1px;
+		width: 42.67%;
+		left: 5.34%;
+	}
+
+	#pu194
+	{
+		margin-right: -10000px;
+		width: 20.27%;
+		margin-left: 52.54%;
+	}
+
+	#u194
+	{
+		width: 98.69%;
+		margin-left: 1.32%;
+	}
+
+	#u194:hover
+	{
+		margin-right: 0px;
+		margin-top: 0px;
+		width: 98.69%;
+		margin-left: 1.32%;
+	}
+
+	#u266-4
+	{
+		font-size: 15px;
+		line-height: 18px;
+		font-family: ubuntu-condensed, sans-serif;
+		font-weight: 400;
+		margin-top: 3px;
+		width: 93.43%;
+		margin-left: 5.27%;
+	}
+
+	#u266-4:hover
+	{
+		margin-right: 0px;
+		margin-top: 3px;
+		width: 93.43%;
+		margin-left: 5.27%;
+	}
+
+	#u206
+	{
+		margin-top: 20px;
+		width: 98.69%;
+		margin-left: 1.32%;
+	}
+
+	#u206:hover
+	{
+		margin-right: 0px;
+		margin-top: 20px;
+		width: 98.69%;
+		margin-left: 1.32%;
+	}
+
+	#u289-4
+	{
+		font-size: 15px;
+		line-height: 18px;
+		font-family: ubuntu-condensed, sans-serif;
+		font-weight: 400;
 		margin-top: 7px;
-		width: 97.83%;
+		width: 92.11%;
+		margin-left: 5.27%;
+	}
+
+	#u289-4:hover
+	{
+		margin-right: 0px;
+		margin-top: 7px;
+		width: 92.11%;
+		margin-left: 5.27%;
+	}
+
+	#u218
+	{
+		margin-top: 16px;
+		width: 98.69%;
+	}
+
+	#u218:hover
+	{
+		margin-right: 0px;
+		margin-top: 16px;
+		width: 98.69%;
+	}
+
+	#u283-4
+	{
+		font-size: 15px;
+		line-height: 18px;
+		font-family: ubuntu-condensed, sans-serif;
+		font-weight: 400;
+		margin-top: 12px;
+		width: 92.11%;
+		margin-left: 3.95%;
+	}
+
+	#u283-4:hover
+	{
+		margin-right: 0px;
+		margin-top: 12px;
+		width: 92.11%;
+		margin-left: 3.95%;
+	}
+
+	#pu230
+	{
+		margin-right: -10000px;
+		width: 20%;
+		margin-left: 74.67%;
+	}
+
+	#u230
+	{
+		width: 100%;
+	}
+
+	#u230:hover
+	{
+		margin-right: 0px;
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u277-4
+	{
+		font-size: 15px;
+		line-height: 18px;
+		font-family: ubuntu-condensed, sans-serif;
+		font-weight: 400;
+		top: -2px;
+		margin-bottom: -2px;
+		width: 93.34%;
+		margin-left: 6.67%;
+	}
+
+	#u277-4:hover
+	{
+		width: 93.34%;
+		margin: 0px 0px -2px 6.666666666666667%;
+	}
+
+	#u254
+	{
+		margin-top: 13px;
+		width: 100%;
+	}
+
+	#u254:hover
+	{
+		margin-right: 0px;
+		margin-top: 13px;
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	#u271-4
+	{
+		font-size: 15px;
+		line-height: 18px;
+		font-family: ubuntu-condensed, sans-serif;
+		font-weight: 400;
+		margin-top: 7px;
+		width: 93.34%;
+		margin-left: 6.67%;
+	}
+
+	#u271-4:hover
+	{
+		margin-right: 0px;
+		margin-top: 7px;
+		width: 93.34%;
+		margin-left: 6.67%;
+	}
+
+	#u242
+	{
+		margin-top: 16px;
+		width: 100%;
+	}
+
+	#u242:hover
+	{
+		margin-right: 0px;
+		margin-top: 16px;
+		width: 100%;
+	}
+
+	#u295-4
+	{
+		font-size: 15px;
+		line-height: 18px;
+		font-family: ubuntu-condensed, sans-serif;
+		font-weight: 400;
+		margin-top: 12px;
+		width: 93.34%;
+		margin-left: 6.67%;
 	}
 
 	#u295-4:hover
 	{
 		margin-right: 0px;
-		margin-top: 7px;
-		width: 97.83%;
+		margin-top: 12px;
+		width: 93.34%;
+		margin-left: 6.67%;
 	}
 
 	#u158-4
 	{
 		min-height: 55px;
-		font-size: 20px;
-		line-height: 24px;
-		margin-top: 32px;
-		width: 43.55%;
-		margin-left: 4.17%;
+		font-size: 21px;
+		line-height: 25px;
+		margin-top: 12px;
+		width: 42.14%;
+		margin-left: 5.34%;
 	}
 
 }
@@ -921,9 +1167,9 @@ body
 
 	#page
 	{
-		min-height: 455.6562272713252px;
+		min-height: 483.6562272713252px;
 		padding-top: 64px;
-		padding-bottom: 397.3437727286748px;
+		padding-bottom: 369.3437727286748px;
 		max-width: 320px;
 	}
 
@@ -932,6 +1178,7 @@ body
 		text-align: center;
 		font-size: 16px;
 		line-height: 19px;
+		position: relative;
 		width: 87.5%;
 		margin-left: 6.88%;
 	}
@@ -939,8 +1186,10 @@ body
 	#u115-4
 	{
 		min-height: 35px;
+		text-align: right;
 		font-size: 12px;
 		line-height: 14px;
+		position: relative;
 		width: 37.5%;
 		margin-left: 56.25%;
 	}
@@ -961,22 +1210,13 @@ body
 	#pu194
 	{
 		margin-right: -10000px;
-		width: 21.95%;
+		width: 21.59%;
 		margin-left: 53.96%;
 	}
 
 	#u194
 	{
-		width: 98.37%;
-		margin-left: 1.64%;
-	}
-
-	#u194:hover
-	{
-		margin-right: 0px;
-		margin-top: 0px;
-		width: 98.37%;
-		margin-left: 1.64%;
+		width: 100%;
 	}
 
 	#u266-4
@@ -985,27 +1225,29 @@ body
 		line-height: 13px;
 		font-family: ubuntu-condensed, sans-serif;
 		font-weight: 400;
-		width: 98.37%;
+		width: 100%;
 	}
 
-	#u266-4:hover
+	#u194:hover,#u266-4:hover
 	{
 		margin-right: 0px;
 		margin-top: 0px;
-		width: 98.37%;
+		width: 100%;
+		margin-left: 0%;
 	}
 
 	#u206
 	{
 		margin-top: 27px;
-		width: 98.37%;
+		width: 100%;
 	}
 
 	#u206:hover
 	{
 		margin-right: 0px;
 		margin-top: 27px;
-		width: 98.37%;
+		width: 100%;
+		margin-left: 0%;
 	}
 
 	#u289-4
@@ -1015,20 +1257,28 @@ body
 		font-family: ubuntu-condensed, sans-serif;
 		font-weight: 400;
 		margin-top: 3px;
-		width: 98.37%;
+		width: 100%;
 	}
 
 	#u289-4:hover
 	{
 		margin-right: 0px;
 		margin-top: 3px;
-		width: 98.37%;
+		width: 100%;
+		margin-left: 0%;
 	}
 
 	#u218
 	{
 		margin-top: 24px;
-		width: 98.37%;
+		width: 100%;
+	}
+
+	#u218:hover
+	{
+		margin-right: 0px;
+		margin-top: 24px;
+		width: 100%;
 	}
 
 	#pu230
@@ -1061,8 +1311,8 @@ body
 
 	#u277-4:hover
 	{
-		margin-right: 0px;
 		width: 100%;
+		margin: 0px 0px 0px 0%;
 	}
 
 	#u254
@@ -1103,7 +1353,7 @@ body
 		width: 98.37%;
 	}
 
-	#u218:hover,#u242:hover
+	#u242:hover
 	{
 		margin-right: 0px;
 		margin-top: 24px;
@@ -1151,12 +1401,14 @@ body
 		margin-right: -10000px;
 		margin-top: 0px;
 		width: 47.62%;
+		margin-left: 0%;
 	}
 
 	#u158-4
 	{
-		min-height: 29px;
-		font-size: 14px;
+		min-height: 57px;
+		font-size: 18px;
+		line-height: 22px;
 		top: -5px;
 		margin-bottom: -5px;
 		width: 40.63%;
