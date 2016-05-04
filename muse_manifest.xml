@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sirwellington.tech" resolutions="1x" timestamp="1462321680760">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sirwellington.tech" resolutions="1x" timestamp="1462321860457">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="272947742" ref="index"/>
+    <file name="index.css" crc="3904441105" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="ubuntu-v9-latin-500.woff" crc="226814883"/>
@@ -29,5 +29,5 @@
     <file name="project copy 4.png" crc="3837664821" seo="true" ref="index"/>
     <file name="project copy 5.png" crc="3791792352" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4259349504" seo="true" mt="1462321528013" redirect="true"/>
+  <file name="index.html" crc="4024185412" seo="true" mt="1462321840655" redirect="true"/>
 </manifest>

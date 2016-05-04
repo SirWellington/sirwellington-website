@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #000010;
-	background-color: #44DA1E;
+	color: #0000E8;
+	background-color: #B90B11;
 }
 
 #muse_css_mq
@@ -29,9 +29,26 @@
 	margin-right: auto;
 }
 
+#u110-4
+{
+	z-index: 2;
+	min-height: 50px;
+	background-color: transparent;
+	color: #4A4A4A;
+	text-align: right;
+	font-size: 26px;
+	line-height: 31px;
+	font-family: '__Uni Sans_5';
+	font-weight: 900;
+	position: relative;
+	width: 46.88%;
+	margin-left: 51.05%;
+}
+
 #pu122
 {
-	width: 89.48%;
+	margin-top: 2px;
+	width: 87.82%;
 	margin-left: 8.44%;
 }
 
@@ -41,54 +58,37 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 58px;
-	width: 35.39%;
+	margin-top: 6px;
+	width: 36.07%;
 }
 
-#pu110-4
+#pu115-4
 {
 	margin-right: -10000px;
-	width: 64.62%;
-	margin-left: 35.39%;
-}
-
-#u110-4
-{
-	z-index: 2;
-	min-height: 71px;
-	background-color: transparent;
-	color: #4A4A4A;
-	text-align: right;
-	font-size: 30px;
-	line-height: 36px;
-	font-family: '__Uni Sans_5';
-	font-weight: 900;
-	position: relative;
-	width: 100%;
+	width: 51.49%;
+	margin-left: 48.52%;
 }
 
 #u115-4
 {
 	z-index: 6;
-	min-height: 71px;
+	min-height: 50px;
 	background-color: transparent;
 	color: #4A4A4A;
 	text-align: right;
-	font-size: 24px;
-	line-height: 29px;
+	font-size: 20px;
+	line-height: 24px;
 	font-family: '__Uni Sans_5';
 	font-weight: 200;
-	margin-top: 1px;
 	position: relative;
-	width: 81.09%;
-	margin-left: 18.92%;
+	width: 100%;
 }
 
 #pu194
 {
-	margin-top: 108px;
-	width: 74.24%;
-	margin-left: 22.17%;
+	margin-top: 149px;
+	width: 94.94%;
+	margin-left: 4.15%;
 }
 
 #u194
@@ -153,9 +153,9 @@
 
 #pu266-4
 {
-	margin-top: 6px;
-	width: 74.96%;
-	margin-left: 22.17%;
+	margin-top: 7px;
+	width: 95.86%;
+	margin-left: 4.15%;
 }
 
 #u266-4
@@ -279,9 +279,9 @@
 
 #pu206
 {
-	margin-top: 69px;
-	width: 71.72%;
-	margin-left: 23.43%;
+	margin-top: 68px;
+	width: 91.71%;
+	margin-left: 5.77%;
 }
 
 #u206
@@ -352,8 +352,8 @@
 #pu289-4
 {
 	margin-top: 20px;
-	width: 71.18%;
-	margin-left: 23.79%;
+	width: 91.02%;
+	margin-left: 6.23%;
 }
 
 #u289-4
@@ -456,7 +456,7 @@
 	line-height: 29px;
 	font-family: '__Uni Sans_5';
 	font-weight: 200;
-	margin-top: 51px;
+	margin-top: 50px;
 	position: relative;
 	width: 46.88%;
 	margin-left: 2.09%;
