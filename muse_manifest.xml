@@ -1,0 +1,37 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sirwellington.tech" resolutions="1x" timestamp="1462339206870">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="503191043" ref="index"/>
+    <file name="nomq_index.css" crc="46203301" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="ubuntu-v9-latin-500.woff" crc="226814883"/>
+    <file name="ubuntu-v9-latin-500.eot" crc="119322835"/>
+    <file name="ubuntu-v9-latin-500.svg" crc="4122134686"/>
+    <file name="uni sans heavy.woff" crc="315227811"/>
+    <file name="uni sans heavy.eot" crc="3936779486"/>
+    <file name="uni sans thin.woff" crc="4142191537"/>
+    <file name="uni sans thin.eot" crc="135226066"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="4106528060" ref="index"/>
+    <file name="20150923_180945 copy.png" crc="4015571138" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="project.png" crc="159670999" seo="true" ref="index"/>
+    <file name="project copy.png" crc="166287032" seo="true" ref="index"/>
+    <file name="project copy 3.png" crc="313253772" seo="true" ref="index"/>
+    <file name="project copy 2.png" crc="188991062" seo="true" ref="index"/>
+    <file name="project copy 4.png" crc="3837664821" seo="true" ref="index"/>
+    <file name="project copy 5.png" crc="3791792352" seo="true" ref="index"/>
+    <file name="20150923_180945 copy130x280.png" crc="4280767432" seo="true" ref="index"/>
+    <file name="20150923_180945 copy160x343.png" crc="82793525" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="350453517" seo="true" mt="1462339187924" redirect="true"/>
+</manifest>
