@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F5;
-	background-color: #ED463B;
+	color: #00000D;
+	background-color: #541072;
 }
 
 .js body
@@ -884,9 +884,9 @@ body
 
 	#page
 	{
-		min-height: 535.5187272713252px;
+		min-height: 531.5687272713253px;
 		padding-top: 64px;
-		padding-bottom: 50.48127272867475px;
+		padding-bottom: 54.431272728674685px;
 		max-width: 375px;
 	}
 
@@ -1142,7 +1142,7 @@ body
 		min-height: 55px;
 		font-size: 21px;
 		line-height: 25px;
-		margin-top: 12px;
+		margin-top: 8px;
 		width: 42.14%;
 		margin-left: 5.34%;
 	}
@@ -1178,9 +1178,12 @@ body
 		text-align: center;
 		font-size: 16px;
 		line-height: 19px;
-		position: relative;
-		width: 87.5%;
-		margin-left: 6.88%;
+	}
+
+	#u110-4-bw
+	{
+		z-index: 2;
+		min-height: 50px;
 	}
 
 	#u115-4
