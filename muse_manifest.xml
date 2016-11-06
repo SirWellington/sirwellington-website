@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sirwellington.tech" resolutions="1x" timestamp="1478400144289">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sirwellington.tech" resolutions="1x" timestamp="1478400386328">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="4046595503" ref="index"/>
@@ -20,7 +20,7 @@
     <file name="require.js" crc="244322403" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="home-favicon.ico" crc="4106528060" ref="index"/>
+    <file name="home-favicon.ico" crc="122393580" ref="index"/>
     <file name="20150923_180945 copy.png" crc="4015571138" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="aroma.png" crc="3844426085" seo="true" ref="index"/>
@@ -33,5 +33,5 @@
     <file name="aroma-crop-u194.png" crc="118131228" ref="index"/>
     <file name="20150923_180945 copy130x280.png" crc="4280767432" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="15281660" seo="true" mt="1478400137745" redirect="true"/>
+  <file name="index.html" crc="3811136388" seo="true" mt="1478400379007" redirect="true"/>
 </manifest>
